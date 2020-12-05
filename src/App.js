@@ -17,7 +17,7 @@ function App() {
       ml={{ base: "5vw", lg: "20vw" }}
       mt={{ base: "30vh", lg: "30vh" }}
       flexDirection="column"
-      width="50%"
+      width="100%"
     >
       <Flex flexDirection="column">
         <Text fontSize={{ base: "4xl", lg: "6xl" }}>Hi, I'm Tayeeb Hasan.</Text>
@@ -26,7 +26,7 @@ function App() {
         </Text>
       </Flex>
       <Flex
-        mt={{ base: "3vh", lg: "8vh" }}
+        mt={{ base: "5vh", lg: "8vh" }}
         justifyContent="flex-start"
         width="50%"
       >
