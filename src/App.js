@@ -17,7 +17,7 @@ function App() {
       ml={{ base: "5vw", lg: "20vw" }}
       mt={{ base: "30vh", lg: "30vh" }}
       flexDirection="column"
-      width="100%"
+      width="80%"
     >
       <Flex flexDirection="column">
         <Text fontSize={{ base: "4xl", lg: "6xl" }}>Hi, I'm Tayeeb Hasan.</Text>
@@ -39,7 +39,7 @@ function App() {
           Icon={FaTwitter}
           link="https://www.twitter.com/HasanTayeeb"
         />
-        <SocialIcon Icon={FaFileAlt} link="https://bit.ly/3osCNWR" />
+        <SocialIcon Icon={FaFileAlt} link="http://tiny.cc/fidqtz" />
       </Flex>
     </Flex>
   );
