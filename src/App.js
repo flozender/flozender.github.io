@@ -20,9 +20,12 @@ function App() {
       width="80%"
     >
       <Flex flexDirection="column">
-        <Text fontSize={{ base: "4xl", lg: "6xl" }}>Hi, I'm Tayeeb Hasan.</Text>
-        <Text fontSize={{ base: "xl", lg: "4xl" }}>
-          🔬 & 💻 Computer Science Undergraduate.
+        <Text fontSize={{ base: "3xl", lg: "5xl" }}>Hi, I'm Tayeeb Hasan.</Text>
+        <Text fontSize={{ base: "lg", lg: "4xl" }}>
+          🔬 & 💻 Computer Science Graduate Student
+        </Text>
+        <Text fontSize={{ base: "sm", lg: "3xl" }}>
+          at Concordia University, Montreal.
         </Text>
       </Flex>
       <Flex
@@ -39,7 +42,7 @@ function App() {
           Icon={FaTwitter}
           link="https://www.twitter.com/HasanTayeeb"
         />
-        <SocialIcon Icon={FaFileAlt} link="http://tiny.cc/fidqtz" />
+        <SocialIcon Icon={FaFileAlt} link="http://tiny.cc/e78juz" />
       </Flex>
     </Flex>
   );
