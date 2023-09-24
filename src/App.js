@@ -42,7 +42,7 @@ function App() {
           Icon={FaTwitter}
           link="https://www.twitter.com/HasanTayeeb"
         />
-        <SocialIcon Icon={FaFileAlt} link="http://tiny.cc/e78juz" />
+        <SocialIcon Icon={FaFileAlt} link="https://drive.google.com/file/d/1SmfNx6bZVl5Jdop8tZhFGEuPg5sFTvcl/view" />
       </Flex>
     </Flex>
   );
